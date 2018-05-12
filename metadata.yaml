@@ -1,0 +1,33 @@
+_repo: The-Girl-from-AlsaceA-Romance-of-the-Great-War-Originally-Published-under-the-Title-of-Little__35926
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35926-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stevenson, Burton Egbert
+    alias: Stevenson, Burton E.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '980'
+    url: http://www.gutenberg.org/2009/agents/980
+    wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
+description: ''
+gutenberg_issued: '2011-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35926'
+  lccn: '19014362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alsace (France) -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+title: 'The Girl from Alsace
+
+  A Romance of the Great War, Originally Published under the Title of Little Comrade'
+url: http://www.gutenberg.org/ebooks/35926
